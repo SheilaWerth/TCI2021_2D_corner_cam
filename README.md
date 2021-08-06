@@ -1,7 +1,7 @@
 # TCI2021_2D_corner_cam
 
 
-This MATLAB code reproduces a subset of the results in Figure 14 in [1].
+This MATLAB code reproduces the results of Figure 14(d) in [1].
 
 The main script is figure14.m
 
